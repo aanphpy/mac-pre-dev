@@ -26,9 +26,13 @@ Install brew lewat command line:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+Sebelum menginstall aplikasi dan library berbasis `brew`, Anda dapat mencari dan melihat instruksi instalasinya di [Situs Brew](https://brew.sh)
+
 # MacPorts
 
 MacPorts adalah kumpulan library dan aplikasi berbasis GNU. Install MacPorts hanya jika Anda ingin menginstall aplikasi berbasis GNU/Linux atau terbentur masalah instalasi yang disediakan `brew`, misalnya ada library yang kurang. Install MacPorts sesuai versi MacOS Anda dari [Situs MacPorts](https://www.macports.org/install.php).
+
+Library dan aplikasi yang disediakan MacPorts dapat Anda lihat di [Situs MacPort](https://ports.macports.org)
 
 # VIM
 
