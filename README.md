@@ -18,7 +18,7 @@ sudo xcodebuild -license
 # Brew
 
 Install brew untuk menginstall library-library yang tidak disediakan di App Store.
-Informasi lebih lanjut bisa dilihat disini [Brew](https://brew.sh)
+Informasi lebih lanjut bisa dilihat di <a href="https://brew.sh" target="_blank">Situs Brew</a>
 
 Install brew lewat command line:
 
@@ -26,13 +26,13 @@ Install brew lewat command line:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Sebelum menginstall aplikasi dan library berbasis `brew`, Anda dapat mencari dan melihat instruksi instalasinya di [Situs Brew](https://brew.sh)
+Sebelum menginstall aplikasi dan library berbasis `brew`, Anda dapat mencari dan melihat instruksi instalasinya di <a href="https://brew.sh" target="_blank">Situs Brew</a>
 
 # MacPorts
 
-MacPorts adalah kumpulan library dan aplikasi berbasis GNU. Install MacPorts hanya jika Anda ingin menginstall aplikasi berbasis GNU/Linux atau terbentur masalah instalasi yang disediakan `brew`, misalnya ada library yang kurang. Install MacPorts sesuai versi MacOS Anda dari [Situs MacPorts](https://www.macports.org/install.php).
+MacPorts adalah kumpulan library dan aplikasi berbasis GNU. Install MacPorts hanya jika Anda ingin menginstall aplikasi berbasis GNU/Linux atau terbentur masalah instalasi yang disediakan `brew`, misalnya ada library yang kurang. Install MacPorts sesuai versi MacOS Anda dari <a href="https://www.macports.org/install.php" target="_blank">Situs MacPorts</a>.
 
-Library dan aplikasi yang disediakan MacPorts dapat Anda lihat di [Situs MacPort](https://ports.macports.org)
+Library dan aplikasi yang disediakan MacPorts dapat Anda lihat di <a href="https://ports.macports.org" target="_blank">Situs MacPort</a>
 
 Setelah menginstall MacPort, Anda harus membuka Terminal baru lalu jalan perintah:
 
