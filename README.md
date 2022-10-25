@@ -34,6 +34,12 @@ MacPorts adalah kumpulan library dan aplikasi berbasis GNU. Install MacPorts han
 
 Library dan aplikasi yang disediakan MacPorts dapat Anda lihat di [Situs MacPort](https://ports.macports.org)
 
+Setelah menginstall MacPort, Anda harus membuka Terminal baru lalu jalan perintah:
+
+```sh
+sudo port -v selfupdate
+```
+
 # VIM
 
 Jalankan command berikut untuk konfigurasi dasar vim
